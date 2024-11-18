@@ -1,3 +1,6 @@
+# About EasyStudy-NeuMF
+This repository extends *EasyStudy* by adding *[NeuMF](https://arxiv.org/pdf/1708.05031)* with optional diversification using *[MMR](https://www.cs.cmu.edu/~jgc/publication/The_Use_MMR_Diversity_Based_LTMIR_1998.pdf)*.
+
 # About
 This is a repository with sources for the paper *EasyStudy: Framework for Easy Deployment of User Studies on Recommender Systems*
 
